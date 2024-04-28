@@ -1,2 +1,2 @@
-# mps-students-management-api
-mps student management api
+# mps-students-system-api
+mps student system api
